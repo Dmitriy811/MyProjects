@@ -11,7 +11,7 @@ This is the main repository for all of the projects in the course.
 
 1. | 01 | [Expanding Cards](https://github.com/Dmitriy811/MyProjects/tree/master/1.%20expanding-cards) | [Live Demo](https://50projects50days.com/projects/expanding-cards/)|
 2. | 02 | [Progress Steps](https://github.com/Dmitriy811/MyProjects/tree/master/2.%20progress-steps) | [Live Demo](https://50projects50days.com/projects/expanding-cards/)|
-3. | 02 | [Progress Steps](https://github.com/Dmitriy811/MyProjects/tree/master/3.%20rotating-nav-animation) | [Live Demo](https://50projects50days.com/projects/expanding-cards/)|
+3. | 03 | [Progress Steps](https://github.com/Dmitriy811/MyProjects/tree/master/3.%20rotating-nav-animation) | [Live Demo](https://50projects50days.com/projects/expanding-cards/)|
 
 4. | 40 | [3d Background Boxes](https://github.com/Dmitriy811/MyProjects/tree/master/40.%203d-boxes-background) | [Live Demo](https://50projects50days.com/projects/3d-background-boxes/)|
 
