@@ -8,8 +8,6 @@ This is the main repository for all of the projects in the course.
 
 ---
 
-<<<<<<< HEAD
-
 1. | 01 | [Expanding Cards](https://github.com/Dmitriy811/MyProjects/tree/master/1.%20expanding-cards) | [Live Demo](https://dmitriy811.github.io/MyProjects/1.%20expanding-cards/index)|
 2. | 02 | [Progress Steps](https://github.com/Dmitriy811/MyProjects/tree/master/2.%20progress-steps) | [Live Demo](https://dmitriy811.github.io/MyProjects/2.%20progress-steps/index)|
 3. | 03 | [Rotating Nav Animation](https://github.com/Dmitriy811/MyProjects/tree/master/3.%20rotating-nav-animation) | [Live Demo](https://dmitriy811.github.io/MyProjects/3.%20rotating-nav-animation)|
