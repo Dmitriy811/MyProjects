@@ -24,7 +24,7 @@ This is the main repository for all of the projects in the course.
 | 10  | [Dad Jokes](https://github.com/Dmitriy811/MyProjects/tree/master/10.%20dad-jokes)                                 | [Live Demo](https://dmitriy811.github.io/MyProjects/10.%20dad-jokes)             |
 | 11  | [Event Keycodes](https://github.com/Dmitriy811/MyProjects/tree/master/11.%20event-keycodes)                       | [Live Demo](https://dmitriy811.github.io/MyProjects/11.%20event-keycodes)        |
 | 12  | [Faq Collapse](https://github.com/Dmitriy811/MyProjects/tree/master/12.%20faq-collapse)                           | [Live Demo](https://dmitriy811.github.io/MyProjects/12.%20faq-collapse)          |
-| 13  | [Random Choice Picker](https://github.com/Dmitriy811/MyProjects/tree/master/13.%20random-choice-picker)           | [Live Demo](https://dmitriy811.github.io/MyProjects/113.%20random-choice-picker) |
+| 13  | [Random Choice Picker](https://github.com/Dmitriy811/MyProjects/tree/master/13.%20random-choice-picker)           | [Live Demo](https://dmitriy811.github.io/MyProjects/13.%20random-choice-picker) |
 | 14  | [Animated Navigation](https://github.com/Dmitriy811/MyProjects/tree/master/14.%20animated-navigation)             | [Live Demo](https://dmitriy811.github.io/MyProjects/14.%20animated-navigation)   |
 | 15  | [Incrementing Counter](https://github.com/Dmitriy811/MyProjects/tree/master/15.%20incrementing-counter)           | [Live Demo](https://dmitriy811.github.io/MyProjects/15.%20incrementing-counter)  |
 | 40  | [3d Background Boxes](https://github.com/Dmitriy811/MyProjects/tree/master/40.%203d-boxes-background)             | [Live Demo](https://dmitriy811.github.io/MyProjects/40.%203d-boxes-background)   |
